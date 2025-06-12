@@ -23,6 +23,7 @@ This project showcases core blockchain features like **block creation**, **minin
 ---
 
 ## 📸 Sample Output
+```bash
 
 PS D:\Works\Blockchain> node cli.js 
 Blockchain.js loaded
@@ -55,7 +56,7 @@ Blockchain is valid.
 exit
 Exiting CLI...
 
-
+```
 
 ---
 
