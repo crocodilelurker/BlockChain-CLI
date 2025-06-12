@@ -132,4 +132,5 @@ Feel free to fork and submit a pull request! Contributions are welcome. 🌟
 
 > “Learning blockchain by building one — one block at a time.”  
 > Made with ❤️ by [Swagat Sahu]
+> Currently Server Implementation is Not done
 
